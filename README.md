@@ -1,5 +1,7 @@
 # Feature Model Repository
 
+**Kmax-generated files are corrupt due to a wrong usage of the Z3 API.**
+
 This repository provides feature models for a diverse set of variant-rich (software) systems, including open-source projects based on the Kconfig language for variability modeling and others, which are mainly intended for the evaluation of product-line analysis techniques.
 
 The repository contains two kinds of feature models:
