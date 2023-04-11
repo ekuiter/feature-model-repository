@@ -1,6 +1,6 @@
 # Feature Model Repository
 
-**Kmax-generated files are corrupt due to a wrong usage of the Z3 API. To prevent usage of these corrupted files, all data has been removed from the current commit of this repository. This repository is only for archiving purposes. Consider using our fixed and improved tool over at [tseitin-or-not-tseitin](https://github.com/ekuiter/tseitin-or-not-tseitin).**
+**Kmax-generated files are corrupt due to a wrong usage of the Z3 API. To prevent usage of these corrupted files, all data has been removed from the current commit of this repository. This repository is only for archiving purposes. Consider using our fixed and improved tool over at [tseitin-or-not-tseitin](https://github.com/ekuiter/tseitin-or-not-tseitin) or our curated [feature-model benchmark](https://github.com/SoftVarE-Group/feature-model-benchmark).**
 
 This repository provides feature models for a diverse set of variant-rich (software) systems, including open-source projects based on the Kconfig language for variability modeling and others, which are mainly intended for the evaluation of product-line analysis techniques.
 
